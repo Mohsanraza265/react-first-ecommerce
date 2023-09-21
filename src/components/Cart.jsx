@@ -57,7 +57,7 @@ const Cart = () => {
                       </div>
                       <div className="grid items-center gap-2">
                         <p className="text-sm font-medium text-center">Taxes and Shipping Will Calculate At Shipping</p>
-                        <button type="button" className="button-theme bg-theme-cart text-white">Check Out</button>
+                        <button type="button" className="button-theme bg-theme-cart text-white">Checkout</button>
                       </div>
                     </div>
 
